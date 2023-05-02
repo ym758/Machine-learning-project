@@ -9,9 +9,15 @@ Research Questions & Project Goals:
  Explore why some models are better suited for image classification than others
  Implement some technique for detecting Out-of-Distribution samples on suitable models and compare their relative performance.
 Techniques & Algorithms:
+
  Decision Trees
+
  Deep Learning
+
  Multi-layered Perceptron
+
  SVM
+
  KMeans
+
  AdaBoost
